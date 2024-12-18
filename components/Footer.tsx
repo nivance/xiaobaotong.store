@@ -12,14 +12,50 @@ const navigation = {
     { name: '创作者', href: '/creators' },
   ],
   credit: [
-    { name: 'Cookie Clicker Unblocked', href: 'https://cookieclickerunblocked.site' },
+    // { name: 'Cookie Clicker Unblocked', href: 'https://cookieclickerunblocked.site' },
+  ],
+  quickMenu: [
+    { name: 'Abgerny Incredibox', href: 'https://sprunki.today/abgerny-incredibox' },
+    { name: 'Sprunki Phase', href: 'https://sprunki.today/phase' },
+    { name: 'Sprunki Retake', href: 'https://sprunki.today/sprunki-retake' },
+    { name: 'Sprunki Rejoyed', href: 'https://sprunki.today/sprunki-rejoyed' },
+    { name: 'Sprunki Phase 0', href: 'https://sprunki.today/sprunki-phase-0' },
+    { name: 'Sprunki Phase 1', href: 'https://sprunki.today/sprunki-phase-1' },
+    { name: 'Sprunki Phase 2', href: 'https://sprunki.today/sprunki-phase-2' },
+    { name: 'Sprunki Phase 3', href: 'https://sprunki.today/sprunki-phase-3' },
     { name: 'sprunki', href: 'https://sprunki.today' },
+    { name: 'Sprunki Phase 4', href: 'https://sprunki.today/sprunki-phase-4' },
+    { name: 'Sprunki Phase 5', href: 'https://sprunki.today/sprunki-phase-5' },
+    { name: 'Sprunki Phase 6', href: 'https://sprunki.today/sprunki-phase-6' },
+    { name: 'Cookie Clicker Unblocked', href: 'https://cookieclickerunblocked.site' },
+    { name: 'Sprunki Phase 7', href: 'https://sprunki.today/sprunki-phase-7' },
+    { name: 'Sprunki Phase 8', href: 'https://sprunki.today/sprunki-phase-8' },
+    { name: 'Sprunki Phase 9', href: 'https://sprunki.today/sprunki-phase-9' },
+    { name: 'Sprunki Phase 10', href: 'https://sprunki.today/sprunki-phase-10' },
+    { name: 'Sprunki Phase 11', href: 'https://sprunki.today/sprunki-phase-11' },
+    { name: 'Sprunki Phase 12', href: 'https://sprunki.today/sprunki-phase-12' },
+    { name: 'Sprunki Phase 13', href: 'https://sprunki.today/sprunki-phase-13' },
+    { name: 'fisch', href: 'https://fischzone.com' },
+    { name: 'Sprunki Mastered', href: 'https://sprunki.today/sprunki-mastered' },
+    { name: 'Sprunki X Rejecz', href: 'https://sprunki.today/sprunki-x-rejecz' },
+    { name: 'Incredibox Mustard', href: 'https://sprunki.today/incredibox-mustard' },
+    { name: 'Incredibox V1', href: 'https://sprunki.today/incredibox-v1' },
+    { name: 'Incredibox V2', href: 'https://sprunki.today/incredibox-v2' },
+    { name: 'Incredibox V3', href: 'https://sprunki.today/incredibox-v3' },
+    { name: 'Incredibox V4', href: 'https://sprunki.today/incredibox-v4' },
+    { name: 'Incredibox V5', href: 'https://sprunki.today/incredibox-v5' },
+    { name: 'Incredibox V6', href: 'https://sprunki.today/incredibox-v6' },
+    { name: 'Incredibox V7', href: 'https://sprunki.today/incredibox-v7' },
+    { name: 'Incredibox V8', href: 'https://sprunki.today/incredibox-v8' },
+    { name: 'Sprunki Christmas Modded', href: 'https://sprunki.today/sprunki-christmas-modded' },
+    { name: 'Sprunki But Its Christmas', href: 'https://sprunki.today/sprunki-but-its-christmas' },
+    
   ],
 };
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-100 mx-auto pb-12 px-4 sm:px-6 lg:px-8" aria-labelledby="footer-heading">
+    <footer className="bg-gray-100 mx-auto px-4 sm:px-6 lg:px-8" aria-labelledby="footer-heading">
       <div id="footer-heading" className="sr-only">
         Footer
       </div>
@@ -71,7 +107,7 @@ export default function Footer() {
                 </ul>
               </div>
               <div className="my-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10 lg:mt-0">
-                <p className="font-inter font-bold text-red-600">友情链接</p>
+                {/* <p className="font-inter font-bold text-red-600">友情链接</p>
                 <ul role="list" className="mt-6 space-y-2 w-48">
                   {navigation.credit.map((item) => {
                     return (
@@ -82,7 +118,7 @@ export default function Footer() {
                       </li>
                     );
                   })}
-                </ul>
+                </ul> */}
               </div>
             </div>
             {/* <div className="mt-10 flex flex-col lg:mt-0">
@@ -92,7 +128,15 @@ export default function Footer() {
               </div>
             </div> */}
           </div>
-          <div className="mx-auto my-12 w-full border-t border-gray-300 lg:my-4"></div>
+          <div className="mx-auto mb-4 flex flex-wrap items-center justify-center gap-x-3 px-2">
+            {navigation.quickMenu.map((item) => {
+              return (
+                <Link key={item.name} href={`${item.href}`} target="_blank" className="text-sm text-red-400 leading-6 whitespace-nowrap hover:underline hover:text-blue-500">
+                  {item.name}
+                </Link>
+              );
+            })}
+          </div>
           <div>
             <p className="font-inter text-center text-sm text-red-600 lg:mt-0">
               © Copyright 2024.{" "}
