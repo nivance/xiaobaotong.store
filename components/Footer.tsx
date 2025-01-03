@@ -40,6 +40,7 @@ const navigation = {
     { name: 'Sprunki Mastered', href: 'https://sprunki.today/sprunki-mastered' },
     { name: 'Sprunki X Rejecz', href: 'https://sprunki.today/sprunki-x-rejecz' },
     { name: 'Incredibox Mustard', href: 'https://sprunki.today/incredibox-mustard' },
+    { name: 'Jujutsu infinite', href: 'hhttp://jujutsuinfinite.im' },
     { name: 'Incredibox V1', href: 'https://sprunki.today/incredibox-v1' },
     { name: 'Incredibox V2', href: 'https://sprunki.today/incredibox-v2' },
     { name: 'Incredibox V3', href: 'https://sprunki.today/incredibox-v3' },
