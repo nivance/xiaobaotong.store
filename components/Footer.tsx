@@ -142,7 +142,7 @@ export default function Footer() {
           </div>
           <div>
             <p className="font-inter text-center text-sm text-red-600 lg:mt-0">
-              © Copyright 2024.{" "}
+              © Copyright 2025.{" "}
               <a
                 href="https://xiaobaotong.store"
                 target="_blank"
