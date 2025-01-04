@@ -319,14 +319,14 @@ export const columns =
             "columnid": "xhs",
             "image_url": "https://static.xiaobot.net/paper/2022-06-24/7466/c9e301d3dfd32a076c06f9c517a59e2b.png",
             "num": {
-                "readers": 3753,
+                "readers": 3769,
                 "contents": 245
             },
             "title": "小红书可复制案例库",
             "owner": "@IDO老徐",
             "description": "别人笔记几千几万赞，商业化收入不断，你的笔记没人看<br><br>我是IDO老徐，帮你手工精选了 220 个小红书可复制案例（全网独一份）<br><br>原价 199， 限时 99.88 元买断（一次订阅，永久查阅）<br><br>快速刷一遍 220 个案例，找到你能模仿的，对标、死磕执行、快速出结果。玩流量，玩 IP，首选小红书。低门槛，低成本，反馈快。<br><br>订阅后，截图支付记录，加微信 957863300 有专属惊喜",
             "created_at": "2022-06-24",
-            "lastupdated": "2024-06-06",
+            "lastupdated": "2024-06-07",
             "type": "BOOKLET",
             "tags": "搞钱、小红书、自媒体、IP、案例库"
         },
@@ -559,14 +559,14 @@ export const columns =
             "columnid": "kevin888",
             "image_url": "https://static.xiaobot.net/paper/2024-05-24/211314/8ba18f57b562ec7703e8cbf5d2a1c2b4.jpeg",
             "num": {
-                "readers": 5102,
-                "contents": 82
+                "readers": 5175,
+                "contents": 96
             },
             "title": "私域赚钱一本通",
             "owner": "@私域文姐",
             "description": "私域文姐，4万付费用户AI破局首席私域官，不销而销私域教练，AI破局俱乐部合伙人，纯素人4个月后实现月入16万+，现主业加副业年收入已超7位数。<br><br>本小册核心目标是带大家从0开始完成私域赚钱全流程，可以成为一本指南大全。<br><br>小册目录：初始定位、自我精进、流量增长、私域运营、内容打造、销售技巧、产品打磨、产品发售。<br><br>联系我可加微信：786288515，备注：777，凭购买截图领120套私域SOP，如果微信加不上可以先进群（置顶目录页里有）。<br><br>原价 1777 元， 现盲定价 10 元",
             "created_at": "2023-11-27",
-            "lastupdated": "2024-06-17",
+            "lastupdated": "2025-01-13",
             "type": "BOOKLET",
             "tags": "搞钱、私域"
         },
@@ -694,14 +694,14 @@ export const columns =
             "columnid": "xiaohongshuku",
             "image_url": "https://static.xiaobot.net/paper/2023-07-23/24925/4deca77d62f3be18a50573c3f6c12453.png",
             "num": {
-                "readers": 2374,
-                "contents": 35
+                "readers": 2526,
+                "contents": 37
             },
             "title": "小红书运营手册｜全本连载中",
             "owner": "@后厂女工小王",
             "description": "🌟这里是小报童获知产品专家背书最多的小红书主题专栏，连载至今，口碑极佳。<br>📕海量案例，各大品牌方和小红书产品经理亲自坐镇的高质量陪伴社群，让你在小红书快速拿到结果。订阅后务必加作者微信备注「小报童」加群，微信号订阅后在第一章可见。<br><br>🌟做号，是这个时代成本最低的创业。<br>📕小红书，是今年，最适合开辟的平台。<br><br>如果你的本职工作就是内容、流量、表达，那么来小红书吧，这里有远超其他平台的用户质量和付费能力；<br>如果你有另外的行当，那更应该做小红书——你的专业能力，找对方法运营，在小红书，如入无人之境。<br><br>🪐这里是以内容平台产品经理和7年副业博主的双重视角讲给你听的整体逻辑和实战经验——小红书运营手册全本。<br><br>【订阅后你可以】<br>1️⃣获得做小红书的核心技能｜工作方法<br>2️⃣进入小红书博主新星群，日常打卡交流<br>3️⃣小红书内部运营学习资料，群内不定期掉落<br><br>一次买断，终身阅读。<br>让账号成为你的资产，用好小红书这个红利工具。<br>欢迎你加入学习。💫<br><br>（作者全网ID同名：@后厂女工小王）",
             "created_at": "2023-07-11",
-            "lastupdated": "2024-06-07",
+            "lastupdated": "2024-11-30",
             "type": "BOOKLET",
             "tags": "搞钱、小红书、自媒体、IP、官方推荐、热门"
         },
@@ -904,14 +904,14 @@ export const columns =
             "columnid": "weixin",
             "image_url": "https://static.xiaobot.net/paper/2023-10-23/7466/799919bf1cf446bdc27c296a80014374.jpeg",
             "num": {
-                "readers": 1368,
+                "readers": 1380,
                 "contents": 80
             },
             "title": "一人企业·私域复利小技巧",
             "owner": "@IDO老徐",
             "description": "我是 IDO老徐，读者 10w，付费用户 2w。在职场，玩副业，无助理。我怎么搞定这些的？ <br><br>嗯，这个专栏，输出 IDO老徐玩私域复利必备的小技巧（时间复利，重复 N 次商业化），一个人就是一家公司。<br><br>轻创业者，副业玩家，必备微信私域小技巧。<br>* 每篇帖子很短，1 分钟看两篇。且值得反复看 100 遍，去执行。<br><br>原价 699，限时最低价 56.99 ，全部都是实战经验，看到就是赚了。满 1500 人涨价至 77.99<br><br>订阅后，微信 957863300 找我，发支付截图，解锁「定向朋友圈和资料包」。",
             "created_at": "2023-10-23",
-            "lastupdated": "2024-05-18",
+            "lastupdated": "2024-07-23",
             "type": "BOOKLET",
             "tags": "搞钱、私域、超级个体"
         },
@@ -934,14 +934,14 @@ export const columns =
             "columnid": "h15284641828",
             "image_url": "https://static.xiaobot.net/paper/2023-10-16/143355/11a53a77eeb2357b9ea12401d2770e18.png",
             "num": {
-                "readers": 1287,
-                "contents": 22
+                "readers": 1288,
+                "contents": 21
             },
             "title": "挽歌独家出品·私域IP营销课",
             "owner": "@挽歌",
             "description": "玩个人IP、自媒体、知识付费、副业、私域、社群运营、朋友圈运营、副业等的朋友，建议订阅本专栏，逐步打开私域-关系-运营-营销-成交五大关卡。<br><br>高能提醒！<br>本专栏由烽狂创客创始人挽歌独家出品，无保留讲解我从连公众号都不知道的纯自媒体小白到用十二个月打造出变现100多万的私域IP【挽歌】和价值千万的私域品牌【烽狂创客】的核心秘诀！<br><br>第一期发售五天即满一千订阅，<br>第二期涨价199。烽狂创客会员免费，订阅之后，找挽歌提供星球编号截图，可报销。<br><br>须知：目前只交付文档版教程。",
             "created_at": "2023-10-12",
-            "lastupdated": "2023-11-15",
+            "lastupdated": "2024-10-12",
             "type": "BOOKLET",
             "tags": "搞钱、私域、IP"
         },
@@ -979,14 +979,14 @@ export const columns =
             "columnid": "skychentian",
             "image_url": "https://static.xiaobot.net/paper/2023-12-09/229290/4ab0c76f3e0d680019b55a7ef82a4c2b.jpeg",
             "num": {
-                "readers": 1312,
-                "contents": 54
+                "readers": 1320,
+                "contents": 58
             },
             "title": "AI小红书IP起号",
             "owner": "@sky陈天",
             "description": "作者sky陈天：AI破局企培负责人，AI破局合伙人。985毕业，AI破局小红书金牌教练、AI转型提效顾问、1个月起了2个千粉号，副业半年变现5位数，主业某独角兽运营经理，<br><br>小册包含AI个人IP定位、小红书起号、AI辅助内容生产、小红书引流、小红书变现、常见的问题六大专栏。<br><br>原价 199，现价 16 元永久买断，满1500人，涨价10元。承诺更新 60 篇！<br><br>购买后加微信： cbccb3456，发支付截图，拉你进群，进群送超全AI+小红书变现精华。",
             "created_at": "2023-11-28",
-            "lastupdated": "2024-05-31",
+            "lastupdated": "2024-11-08",
             "type": "BOOKLET",
             "tags": "搞钱、AI、小红书、自媒体"
         },
@@ -1039,14 +1039,14 @@ export const columns =
             "columnid": "QSH2040",
             "image_url": "https://static.xiaobot.net/paper/2023-07-10/27535/eff9e8fe802b23128dec5b38c8045a7a.jpeg",
             "num": {
-                "readers": 764,
-                "contents": 30
+                "readers": 772,
+                "contents": 34
             },
             "title": "营销第一课",
             "owner": "@枪上花",
             "description": "对于把商业、生意、挣钱当第一爱好的人来说，这是一个卖东西的世界...<br><br>个人卖的是时间，企业卖的是产品和服务。<br><br>个人关心的是努力——尽量提高专业技能和勤奋度，为了尽可能的把时间卖出高单价；<br><br>企业关心的是模式——一个能通过购买别人的时间，来为自己创造产品和服务售卖，并且能持续盈利的模式。<br><br>过去我们服务很多公司，古茗、元气、乐刻、鲁花...身处一个研究“卖东西”的行业。<br><br>做这行越久，越会觉得，营销，本质是一种生存技能——毕竟大家都是出来挣钱的。<br><br>欢迎你免费查阅第一章，一起来参与这场“出来卖”的游戏。",
             "created_at": "2023-07-10",
-            "lastupdated": "2024-05-17",
+            "lastupdated": "2024-12-17",
             "type": "BOOKLET",
             "tags": "官方推荐、营销、商业"
         },
@@ -1114,7 +1114,7 @@ export const columns =
             "columnid": "mysw001",
             "image_url": "https://static.xiaobot.net/paper/2022-12-12/57139/d0abd5974d39e6c8837ab8e2c364da24.jpeg",
             "num": {
-                "readers": 576,
+                "readers": 578,
                 "contents": 117
             },
             "title": "暴力引流108招",
@@ -1459,7 +1459,7 @@ export const columns =
             "columnid": "siyuwiki",
             "image_url": "https://static.xiaobot.net/paper/2023-11-03/22414/908316b2b8e63cfa627e8437a3c09d7d.png",
             "num": {
-                "readers": 69,
+                "readers": 72,
                 "contents": 30
             },
             "title": "私域知识体系白皮书2.0",
@@ -1744,14 +1744,14 @@ export const columns =
             "columnid": "yunyingren",
             "image_url": "https://static.xiaobot.net/paper/2024-01-05/15580/1a263cfe92c3b992004f6f61afcc374c.png",
             "num": {
-                "readers": 731,
-                "contents": 35
+                "readers": 742,
+                "contents": 36
             },
             "title": "小红书投放策略红宝书",
             "owner": "@松月",
             "description": "“做好小红书投放，看这本就够了”！（松月和好多鱼联合出品）<br><br>2024年小红书的机会在于投放！薯条、聚光、达人等投放工具是自然流的放大器，随着平台竞争加剧，只靠自然流的玩法2024年将不再适用！<br><br>适合人群：<br>把小红书作为种草平台快消品、消费品的企业一把手和市场营销负责人；负责小红书平台运营操盘手、代运营、和个人博主。<br><br>内容预览：<br>扫码进入可看到内容目录，分为新手篇、进阶篇、大师篇、投放案例库、投放资料库和常见问题等板块，且会根据平台的变化趋势做实时更新，保证你拿到信息的及时和准确！给大家开通了3讲进行免费阅读。",
             "created_at": "2023-01-08",
-            "lastupdated": "2024-04-19",
+            "lastupdated": "2024-11-28",
             "type": "BOOKLET",
             "tags": "搞钱、副业、小红书、营销、运营、投放"
         },
@@ -2584,7 +2584,7 @@ export const columns =
             "columnid": "asdfghjkl",
             "image_url": "https://static.xiaobot.net/paper/2023-07-27/48633/bd4fe904fd5ac2a8e32b87e065f6b3ed.png",
             "num": {
-                "readers": 420,
+                "readers": 421,
                 "contents": 106
             },
             "title": "100 个提高微信成交率的小技巧",
@@ -3364,7 +3364,7 @@ export const columns =
             "columnid": "fscz-szbf",
             "image_url": "https://static.xiaobot.net/paper/2024-05-06/17489/341a1427b4e6a494de172d1e22ffca06.jpeg",
             "num": {
-                "readers": 90,
+                "readers": 91,
                 "contents": 42
             },
             "title": "《孙子兵法》商业战略入门",
@@ -3439,7 +3439,7 @@ export const columns =
             "columnid": "sjnm78",
             "image_url": "https://static.xiaobot.net/paper/2023-12-11/359242/d11ff7ca846252aacd17bda81416f24e.jpeg",
             "num": {
-                "readers": 1556,
+                "readers": 1569,
                 "contents": 47
             },
             "title": "互联网引流的100种手法",
@@ -4969,14 +4969,14 @@ export const columns =
             "columnid": "google-ads",
             "image_url": "https://static.xiaobot.net/paper/2024-01-16/484325/90faf92b69a03f07488e718e2819ce24.jpeg",
             "num": {
-                "readers": 67,
-                "contents": 9
+                "readers": 74,
+                "contents": 11
             },
             "title": "谷歌广告投放：简单却真实有效的原则与方法",
             "owner": "@昕昕点灯",
             "description": "作者：昕昕点灯，知乎同名，公众号“昕昕点灯LY”<br><br>本专栏写给正在从事Google Ads投放的优化师。没有花哨的战略和战术。有我个人8年多在投放一线实践中沉淀下来、能够帮助你获得业务结果（高ROI、合格的客户线索、实际利润）的那些看似简单却拿到了真实结果的原则和方法。",
             "created_at": "2024-01-16",
-            "lastupdated": "2024-04-06",
+            "lastupdated": "2024-11-06",
             "type": "BOOKLET",
             "tags": "营销、广告"
         },
@@ -5089,14 +5089,14 @@ export const columns =
             "columnid": "putaohaoqiang",
             "image_url": "https://static.xiaobot.net/paper/2024-01-16/279287/eb24fbf91956ad613b4100a3d0b113d0.jpeg",
             "num": {
-                "readers": 59,
-                "contents": 86
+                "readers": 60,
+                "contents": 89
             },
             "title": "100个微信成交案例与技巧",
             "owner": "@葡萄（微信不要转账 😡）",
             "description": "能一分钟成交的客户，绝不拖到十分钟，把30%的成交率，拉到50%，葡萄的谈单法则就是这么爽~<br><br>葡萄从教培转型自媒体，主攻销售，五个月变现20w，30分钟与陌生客户谈成五位数单价大单，因此这个专栏🈶超多葡萄的微信成交小技巧和成交案例呢！<br><br>接下来会最少更新100➕内容，定价199元，一次付费终生买断，来修炼你的谈单秘籍哇！<br><br>葡萄公众号:葡萄本葡萄<br>添加葡萄微信进读者群，专栏更新后会在读者群同步 (葡萄微信：putaolaoshi19），<br><br>可以找葡萄领取一次免费的谈单诊断，如果对大家有用，可以点个启发呀～",
             "created_at": "2024-01-02",
-            "lastupdated": "2024-05-10",
+            "lastupdated": "2024-12-31",
             "type": "BOOKLET",
             "tags": "微信、沟通"
         },
@@ -5239,14 +5239,14 @@ export const columns =
             "columnid": "wangzhan",
             "image_url": "https://static.xiaobot.net/paper/2024-01-16/98198/007d87081b0441edb05b2671997a59f7.png",
             "num": {
-                "readers": 487,
+                "readers": 488,
                 "contents": 61
             },
             "title": "手把手教你做全自动成交网站",
             "owner": "@阿拉丁@叁心笔记",
             "description": "玩转网站全自动成交，轻资产做项目，如果你想做一个网站并且想利用网站后期全自动成交，那么这个专栏适合你。<br><br>本专栏源自我价值998元的网站全自动成交项目，现低价以专栏形式分享。<br><br>本专栏主要教大家如何做一个网站，网站如何对接支付系统，网站如何做内容。<br>如果你想做备案站，本专栏也会教你如何做网站备案，做SEO流量，网站项目是我一直在操作的项目。<br><br>快速学习，精准复制。<br>原价998元，现39.8（每满200人，涨价10元）<br>已从19.9涨到39.8<br><br>订阅本专栏不提供免费交流群<br>目前也没付费交流群<br><br>付费三思，按需加入。",
             "created_at": "2024-01-16",
-            "lastupdated": "2024-03-07",
+            "lastupdated": "2024-08-18",
             "type": "BOOKLET",
             "tags": "独立开发"
         },
@@ -5944,14 +5944,14 @@ export const columns =
             "columnid": "Ponghub",
             "image_url": "https://static.xiaobot.net/paper/2022-06-25/45825/142207a62076d2ed4556c9d715a776c1.jpeg",
             "num": {
-                "readers": 283,
-                "contents": 97
+                "readers": 311,
+                "contents": 100
             },
             "title": "让客户主动找你：新保险人的获客指南",
             "owner": "@彭佳腾Pong",
             "description": "主要会持续记录本人在保险业尝试实操的，<br>各种「被动获客」实践。<br><br>专写「自媒体被动获客/输出方法论/聊客户实战等」<br><br>489/年<br><br>持续更新，一顿饭钱，交个彭友。<br><br>本人1997.12<br>连续MDRT、COT<br>所有客户来自陌生被动咨询<br><br>公众号：Ponghub<br>微信：t2294883957<br><br>有个售后群，买了报童的，可以加我微信拉你进群，有啥卖保险小问题，都可以侃。",
             "created_at": "2022-06-13",
-            "lastupdated": "2024-06-03",
+            "lastupdated": "2025-01-04",
             "type": "COLUMN",
             "tags": "保险"
         },
@@ -6065,13 +6065,13 @@ export const columns =
             "image_url": "https://static.xiaobot.net/paper/2024-03-30/106309/e1ee845e635b6bfe56acff36ce1838fb.jpeg",
             "num": {
                 "readers": 735,
-                "contents": 23
+                "contents": 24
             },
             "title": "小红书爆款笔记优质拆解",
             "owner": "@小红人创业汇",
             "description": "50条优质爆款文案拆解（附框架模版），帮助更多博主提升文案能力，成为爆款制造机。<br><br>原价2000元，限时28.8元，不定期涨价<br><br>每周更新一篇，终身订阅制<br><br>不贪多，一种方法练到极致就够了<br><br>需要系统学习爆款笔记，请加入年度社群488元/年",
             "created_at": "2024-03-30",
-            "lastupdated": "2024-07-01",
+            "lastupdated": "2024-12-07",
             "type": "BOOKLET",
             "tags": "小红书、案例库"
         },
@@ -6326,7 +6326,7 @@ export const columns =
             "owner": "@赫敏姐姐",
             "description": "🎃【自媒体是当下时代留给普通人的最后红利】<br>🍠  而小红书，是所有自媒体平台中最值得投入的。<br><br>👩🏻‍🦰我是小红书博主赫敏姐姐，2023.02入局小红书，起号当月涨粉2w，8个月从0涨粉11w，不到半年就变现6位数。<br><br>🌟一句话总结：如果你想学点小红书运营的真本事，向做出结果的人(比如我)学习，成功概率极高。<br><br>【适合用户✌🏻】<br>1. 刚起步做号，不知道怎么入门、屡屡受挫不得要领<br>2. 已经做了一段时间，但不出爆款、不涨粉、不知道怎么变现<br><br>【你将获得🎯】<br>1、做一个值钱的账号所需的：快速起号秘诀、创作爆款秘诀、跑通变现模式等全部知识<br>2、一个小红书博主社群：群内有问必答，相当于半陪跑<br>3、学习资料包：不定期更新的小红书内部运营资料和我的独家爆款拆解模板<br><br>【关于定价💰】<br>限时299元买断，满200人提价至359元<br>购买后永久有效，后续更新无需额外付费",
             "created_at": "2023-03-17",
-            "lastupdated": "2024-02-29",
+            "lastupdated": "2024-10-06",
             "type": "BOOKLET",
             "tags": "小红书"
         },
@@ -6454,14 +6454,14 @@ export const columns =
             "columnid": "afterwork2hours",
             "image_url": "https://static.xiaobot.net/paper/2023-08-27/24744/9d404117c73a3baf5af3459a6a8c58d0.png",
             "num": {
-                "readers": 178,
-                "contents": 42
+                "readers": 188,
+                "contents": 43
             },
             "title": "小红书从0到1起号指南（连载中）",
             "owner": "@吴荔枝",
             "description": "专为新手定制的「小红书从0到1起号指南」，适合每一位想尝试自媒体/搞副业的朋友，保姆级教程帮助你少走弯路。<br><br>专栏作者：<br>1. 小雪：前小红书运营，7年资深创作者运营<br>2. 荔枝：课程设计师，4年教育行业经验<br><br>- 限时99元（永久买断）<br>- 满200名涨价至199元<br><br>订阅后，你将获得：<br>- 至少26篇小红书起号的步骤拆解（附案例）<br>- 专属小红书创作者交流群，每月一期打卡活动<br>- 加餐分享：低粉变现经验、私域引流案例、AI创作提效等<br><br>订阅后请添加微信：lizstudy，加入创作者交流群，一起行动！",
             "created_at": "2023-08-01",
-            "lastupdated": "2024-05-20",
+            "lastupdated": "2024-12-10",
             "type": "BOOKLET",
             "tags": "小红书"
         },
@@ -8419,14 +8419,14 @@ export const columns =
             "columnid": "pingshu56",
             "image_url": "https://static.xiaobot.net/paper/2024-01-09/361620/92b526bc16c58df89aafaf70472e2695.jpeg",
             "num": {
-                "readers": 40,
-                "contents": 149
+                "readers": 50,
+                "contents": 159
             },
             "title": "小红书爆款笔记1000篇",
             "owner": "@红鱼",
             "description": "💗用心做笔记没人看，别人做的几千几万赞，收入接连不断？<br>早鸟价39.9（原价99），永久买断，每满100人涨价10元<br><br>🍭目标人群：<br>想要抓住小红书红利期赚钱的人；<br>想要做小红书账号但无从下手<br>已经做小红书号但做不出爆款涨粉<br><br>💘你将获得：<br>学习1000条爆款案例，每天都在练基本功。<br>对标模仿，死磕练习，提高能力快速出结果。<br>低成本反馈快，抄也能抄出大爆款。<br><br>👋额外福利<br>订阅后，加红鱼微信pingshu56，备注暗号【小报童】，送「小红书快速起号手册」和「450个精选副业项目电子书」。",
             "created_at": "2024-01-08",
-            "lastupdated": "2024-05-07",
+            "lastupdated": "2025-01-02",
             "type": "BOOKLET",
             "tags": "小红书"
         },
@@ -10768,12 +10768,337 @@ export const columns =
             "type": "BOOKLET",
             "new": 1,
             "tags": "IP、超级个体"
-        }
+        },
+        {
+            "columnid": "5134tea",
+            "image_url": "https://static.xiaobot.net/paper/2024-07-21/641850/11f63c3558ccd0e0b4fcc058c262f0c5.png",
+            "num": { "readers": 21, "contents": 83 },
+            "title": "普通人可复制的666个百万播放短视频案例",
+            "owner": "@懒羊羊🐏",
+            "description": "深入剖析每个案例的内容结构、表现形式、创意构思、内容制作难度及涨粉变现难度等，为你提供全方位的短视频创作思路。<br><br>案例内容适用于：视频号、抖音、小红书、快手等全域视频平台。以及带货短视频内容创新。<br><br>无论你是短视频新手还是资深创作者，都能从中获得灵感，提升你的视频创作能力。<br><br>购买后赠送短视频资料大礼包一份，加入专属交流群。<br>价格：首发10元，保底更新666篇。<br>（一次订阅，永久学习）",
+            "created_at": "2024-07-16",
+            "lastupdated": "2024-08-25",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "短视频、案例库"
+        },
+        {
+            "columnid": "uncletan",
+            "image_url": "https://static.xiaobot.net/paper/2024-06-30/596600/cdc8d50b3dd16774649304b5b1a55863.jpeg",
+            "num": { "readers": 7340, "contents": 81 },
+            "title": "普通人可实操的0-100万赚钱全攻略",
+            "owner": "@毯叔本叔",
+            "description": "毯叔：金融圈从业15年老司机，200万粉丝金融自媒体【毯叔盘钱】创始人，金融&amp;副业&amp;财富，年均实现三个百万变现<br><br>这是毯叔专为普通人打造的，可实操复制的0-100万赚钱全攻略<br><br>包含财富认知篇、财富规划篇、财富实操篇，和分模块的职场赚钱篇，副业赚钱篇，理财赚钱篇共六个专栏<br><br>原价1999元，现价12元永久买断<br><br>买完记得看置顶帖，加微信uncletan-2024（或uncletan2021），备注“小报童”，领取我独家原创的万字精华资料《全网最全百万变现资料包》，并拉你进我的“百万变现交流群”",
+            "created_at": "2024-06-24",
+            "lastupdated": "2024-12-26",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "搞钱"
+        },
+        {
+            "columnid": "happylife2024",
+            "image_url": "https://static.xiaobot.net/paper/2024-09-08/502047/824b43d0891a787767ca22191a27a5f6.webp",
+            "num": { "readers": 75, "contents": 32 },
+            "title": "普通人美好生活指南丨随时随地赚钱",
+            "owner": "@纸鸢Crystal",
+            "description": "本栏目致力于帮助普通人，通过衣食住行赚钱省钱，提高自己的副业赚钱能力。<br><br>你不需要有粉丝，不需要有什么大厂光环，你只需要会用手机，会打字，听话照做，日拱一卒就可以。<br><br>💰本专栏定价365元，早鸟价169元，仅限10名。<br>一次付费，买断终身。每增加10人，提价10元。<br>24小时内不满意可全额退款。<br><br>🧧分享有赏：可以将专栏或单篇文章分享给朋友，朋友下单后，自己可以获得30%佣金。<br><br>❤️ 下单后记得添加我的微信【zhiyuancrystal00】，加入副业赚钱交流群，大家一起赚钱！<br><br>好好赚钱就是最大的正能量。",
+            "created_at": "2024-03-25",
+            "lastupdated": "2024-11-08",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "超级个体、生活"
+        },
+        {
+            "columnid": "idolaozhao001",
+            "image_url": "https://static.xiaobot.net/paper/2024-12-31/8959/c3514faa29626ade4cdb9a789396d57c.jpeg",
+            "num": { "readers": 154, "contents": 564 },
+            "title": "100个2025蛇年搞钱思路",
+            "owner": "@赵半仙",
+            "description": "你是否在为蛇年的财富之路感到迷茫？<br>是否想要在2025年蛇年抓住每一个赚钱的机会？<br>现在，你的福音来了！<br>半仙精心打造了一个蛇年过年赚钱专栏——<br>《2025年蛇年如何赚钱的100招》！<br>原价 99 元，限时 10 元，<br>承诺更新至少 100 个搞钱思路，<br>祝你蛇年财富翻倍。<br>购买后加微信 68433505，<br>邀请你进蛇年搞钱群！",
+            "created_at": "2024-12-31",
+            "lastupdated": "2025-01-02",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "搞钱、生活"
+        },
+        {
+            "columnid": "nszz2022",
+            "image_url": "https://static.xiaobot.net/paper/2024-12-18/140037/3d1c9e78d9b69a86a368384d0016a106.jpeg",
+            "num": { "readers": 3696, "contents": 25 },
+            "title": "2025年读书写作搞钱指南",
+            "owner": "@逆熵增者",
+            "description": "作者:逆熵增者，网瘾青年逆袭成为百万知识IP，4年时间通过读书写作变现200W，践行用生命影响生命，深度影响2000位朋友通过读书改变命运！<br><br>在逆熵增成立四周年之际推出此活动，专栏包括以下内容:<br><br>1.如何成为阅读高手？<br>2.如何成为写作高手？<br>3.如何成为赚钱高手？<br>4.如何成为时间管理达人？<br>5.如何通过读书写作变现？<br>6.2025年知识付费怎么做？<br>还有24个高频高质量问答<br><br>原价1999元，现在只需20元，永久买断<br><br>购买后，加微信（nszz2022或nszz2023），凭截图，送价值1999元的33本我精心挑选的电子好书（限量赠送）。",
+            "created_at": "2024-12-18",
+            "lastupdated": "2025-01-02",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "写作、搞钱"
+        },
+        {
+            "columnid": "xuemei",
+            "image_url": "https://static.xiaobot.net/paper/2023-12-23/97124/acf6895fad573eabf1e94c77cb5302ed.jpeg",
+            "num": { "readers": 159, "contents": 184 },
+            "title": "雪梅觉醒成长陪伴@2025",
+            "owner": "@雪舞梅香",
+            "description": "雪梅：自信力教练、丰盛人生 社群主理人<br>超能力：让人感到信任、安全、温暖、有力量<br><br>擅长方向：<br>  ①提升自信力：帮助自卑内向的人看见自身特质，发现优势<br>  ②提升行动力：支持内心敏感的人走出负面情绪，专注行动<br>  ③提升财富力：激发有想法有动力的人发挥潜能，稳稳创富<br><br>本专栏记录雪梅的成长之旅，主要包含<br>【觉醒成长100问】【成长教练闻思修】【赋能案例拆解】<br><br>原价999元，福利价102元<br>满100人后，每增加50人涨价50元<br>订阅后，截图支付记录，加微信 xuemei9565，进交流群。",
+            "created_at": "2023-12-17",
+            "lastupdated": "2024-12-01",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "成长、超级个体"
+        },
+        {
+            "columnid": "emotionmanage",
+            "image_url": "https://static.xiaobot.net/paper/2023-01-12/48766/0cc80125ab64b4549fcd352f7674743c.jpeg",
+            "num": { "readers": 5, "contents": 46 },
+            "title": "《女性自我成长手册》2025",
+            "owner": "@CoCo陶可可",
+            "description": "💎这是一本女性自我成长手册<br>原名：UpGirl 养成记<br>❤️献给 所有 20+/30+女性<br>📖100篇内容（已更新到40篇）<br>💰99元 终身买断制<br>☺️关于可可：<br>→连续10年每年阅读300+本书 <br>→在6重身份中探索出女性成长可以参考的路径<br>😉期待与你相遇<br><br>其他专栏：<br>「时间花园打造手册」https://xiaobot.net/p/timemanagement?refer=5bdcc0b0-cfce-418a-b225-7381c232e1c0",
+            "created_at": "2022-07-15",
+            "lastupdated": "2025-01-03",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "超级个体、成长"
+        },
+        {
+            "columnid": "AI666666",
+            "image_url": "https://static.xiaobot.net/paper/2023-12-08/4628/bb0efd3d645fd1604fe9c364d71720ab.jpeg",
+            "num": { "readers": 229, "contents": 48 },
+            "title": "数字人玩法入门手册",
+            "owner": "@大国",
+            "description": "本专栏由玩赚AI实验室1000多位星友联合出品，帮您避90%数字人的坑，内容涵盖数字人的基础知识、应用场景、操作技巧、常见问题等内容，助您快速掌握数字人运营和玩法的核心技能。同时，我们还提供了丰富的案例分析、实战经验分享。<br><br>数字人已成为企业和个人拓展业务、提升效率的必备工具，为了让您更好地驾驭数字人，我们特别推出了【数字人玩法入门手册】专栏，为您提供全面、系统、实战的数字人运营知识。<br><br>首发仅需10元，即可永久买断，开启您的数字人运营新篇章！<br><br>专栏负责人微信：zyg90s，备注：数字人，提供数字人玩法交流群。",
+            "created_at": "2023-12-08",
+            "lastupdated": "2024-07-17",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "数字人"
+        },
+        {
+            "columnid": "xhsqz",
+            "image_url": "https://static.xiaobot.net/paper/2023-11-21/83900/c54fe9acd3730fcf615d87df35a9c22f.png",
+            "num": { "readers": 24, "contents": 106 },
+            "title": "小红书矩阵获客高频问题",
+            "owner": "@深圳老刘",
+            "description": "我是淘客老刘 ，这是小红书矩阵获客高频问题精选。<br>玩小红书矩阵获客一定会遇到这些问题，我的一些解决建议。<br>也可以把这里当成问答库，遇到问题来这搜索，找答案。<br>原价 99，限时最低价 19.99 ，满 100 人涨价至39.99(随着人数增长可能会提前涨价)<br>订阅后，微信 87371 找我，发支付截图，邀请你进【小红书引流交流群】",
+            "created_at": "2023-11-21",
+            "lastupdated": "2024-08-20",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书、获客"
+        },
+        {
+            "columnid": "yingxiaobox",
+            "image_url": "https://static.xiaobot.net/paper/2023-12-24/432554/8c892d32209e8158239fa1119f6e34eb.jpeg",
+            "num": { "readers": 23, "contents": 11 },
+            "title": "营销问道集",
+            "owner": "@尽余欢",
+            "description": "hi，我们是主导过品牌浏览过亿、刷屏级宣发的大厂mkter 夏千万和尽余欢<br><br>如何构思1个爆款产品概念？<br>如何薅到明星or达人更多资源？<br>如何0-1策划一场线下活动？<br>……<br>这些mkter最常见的问题——<br>- 在公司老板不教，所有的坑都要自己淌一遍，学习成本巨大？<br>- 去网上搜办法，信息质量良莠不齐，搜索成本巨大？<br>不如来听身处战场、拿到结果的我们 告诉你最干货的经验分享<br><br>-限时59元（永久买断）<br>-满100人涨价至139元<br><br>付费之后，你将获得：<br>-目录上19篇营销干货，工具模板+案例分享<br>-mkter社群",
+            "created_at": "2023-12-17",
+            "lastupdated": "2024-03-12",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "营销"
+        },
+        {
+            "columnid": "xhs1688",
+            "image_url": "https://static.xiaobot.net/paper/2023-05-26/25806/277c9a37915db538e1d300a6f4e48dca.jpeg",
+            "num": { "readers": 14, "contents": 87 },
+            "title": "小红书可复制案例精选",
+            "owner": "@K.",
+            "description": "2023年有哪些适合普通人做的副业呢？<br><br>本案例库手动精选200个小红书副业案例，涉及母婴育儿、旅游、美食、服装穿搭等多个赛道，可以帮你快速获得小红书副业灵感。<br><br>限时58元买断(永久有效)<br>每满100人订阅，涨价10元，早买买赚<br><br>每天更新5条案例。",
+            "created_at": "2023-05-22",
+            "lastupdated": "2023-10-12",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书、案例库"
+        },
+        {
+            "columnid": "W969830544",
+            "image_url": "https://static.xiaobot.net/paper/2024-01-11/134937/bc71c1780d15a9366f86e0fbcfef345f.png",
+            "num": { "readers": 25, "contents": 46 },
+            "title": "电商投放·转化率狂飙指南",
+            "owner": "@阿威的获客笔记",
+            "description": "1、专栏简介<br>是一个主要围绕【电商投放+电商转化率提升】的垂直性专栏，持续分享投放、提升转化率的干货。<br><br><br>2、作者是谁<br>陈威，全网昵称为「转化率二号人物」。<br>持续深耕「电商投放+电商转化率提升」，致力于用高转化率，助推投放roi、销售额实现大幅提升。<br><br>PS：和常规投放人的不同点在于---我长期深耕电商转化率内功。如立志用7年训练-转化率狂飙模型，截至9月10日，已深耕超600天、超15W分钟。<br><br>实战成功近百次，曾优化润百颜次抛精华、同仁堂洗发水、郎酒、斯维诗深海鱼油等，提升转化率17.1%-600%。<br><br><br>3、适合谁学习<br>电商从业者。<br>尤其是那些店铺转化率很低的；<br>以及不懂投放，或者投放roi低但总是提升不了；<br>或者roi虽还行，但销售额难以提升的同学；<br>或者销售额是提了，但roi又非常跟不上了。",
+            "created_at": "2024-01-10",
+            "lastupdated": "2024-11-16",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "电商"
+        },
+        {
+            "columnid": "xhs1000",
+            "image_url": "https://static.xiaobot.net/paper/2023-12-14/57574/9f830324ae4a6f6cbf5026478ba9782e.jpeg",
+            "num": { "readers": 108, "contents": 27 },
+            "title": "小红书茶馆🍵·高频200问",
+            "owner": "@孙哲",
+            "description": "我是孙哲 ，这是《小红书茶馆🍵》社群·关于小红书问题精选回答的内容，一共会更新200条。<br><br>做小红书一定会遇到各种各样的问题，这里是我个人的独到见解回答，可以参考！<br><br>你要知道关于小红书的答案，在这里都可以找到！<br><br>遇到问题来这搜索，找答案。<br><br>无论你是想做小红书还是已经在做小红书的，建议都订阅。<br><br>原价399，限时最低价 19.9 ，满 500 人涨价至 29.9（随着人数增长可能会提前涨价）<br><br>订阅后，微信 𝟏𝟖𝟎𝟑𝟑𝟑 找我，发支付截图，领取「小红书实战秘籍」我们用心整理出来的资料包，无价之宝！",
+            "created_at": "2023-12-05",
+            "lastupdated": "2024-10-20",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书"
+        },
+        {
+            "columnid": "daoshu",
+            "image_url": "https://static.xiaobot.net/paper/2023-04-18/260754/d5a3c748877216bd0b50af732995aee7.jpeg",
+            "num": { "readers": 152, "contents": 154 },
+            "title": "广告总监的10年营销策划经验",
+            "owner": "@道叔",
+            "description": "这里是曾经身为营销总监的道叔做营销广告，做策划的全部经验。<br><br>本册可说是营销人百宝书，目前已更新140+篇超级干货，包含营销方法论、底层逻辑、策划秘诀、品牌干货、文案技巧、职场精华等。<br><br>读者可一键“窃取”道叔十来年的工作经验，你想知道的一切策划人的内幕都在这里拉！<br><br>更多，加溦：1024780<br><br>原价299￥，当前特价19.8元买断。",
+            "created_at": "2023-04-18",
+            "lastupdated": "2024-12-04",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "营销"
+        },
+        {
+            "columnid": "apeng0225",
+            "image_url": "https://static.xiaobot.net/paper/2024-02-04/501289/15eb67e1a6c3a5d12b0b9c3e45444eb0.jpeg",
+            "num": { "readers": 5, "contents": 32 },
+            "title": "小红书运营笔记",
+            "owner": "@阿鹏",
+            "description": "《小红书运营笔记》这个专栏，主要记录和分享，阿鹏从0粉丝到万粉，多个赛道小红书运营方法。<br><br>我做个付费专栏，想把自己过去的运营经验系统的分享出来，写成一个小册子，帮助后来运营小红书小伙伴少走弯路。<br><br>适合人群：小红书运营，自媒体人。运营小红书前期找不到方向，比较迷茫。也欢迎小红书作者加入，一起成长。<br><br>定价：199元，买断。突破100人，涨价到299元。<br>公众号、即刻、小红书：我是阿鹏。<br>阿鹏微信：apeng2020520<br>备注：小报童读者<br>邀请你加入小红书交流群，做小红书的道路上一起成长。<br><br>关于交付：前期30篇干货笔记，包括选题、封面、标题、内容、避坑指南、私域引流等。还有20篇的赛道案例分析，后续不定期的加餐。<br><br>你能收获什么？粉丝福利<br><br>1.了解阿鹏，从0到1多个账号的运营经验。<br>2.小红书从0到1运营指南，提前避坑，少走弯路。<br>3.小红书最安全的引流方法，不封号。<br>4.加入小红书社群，有任何问题我都会回答。<br>5.深度交流，阿鹏其他产品后续半价或者免单的机会。<br>6.这份专栏简单易懂，看了以后可以直接操作。",
+            "created_at": "2024-02-03",
+            "lastupdated": "2024-10-30",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书、运营"
+        },
+        {
+            "columnid": "cheesemama",
+            "image_url": "https://static.xiaobot.net/paper/2023-11-22/421582/70c3cf51fa725f4ea2b1b20047129eb5.jpeg",
+            "num": { "readers": 39, "contents": 140 },
+            "title": "芝士妈妈的小红书成长计划",
+            "owner": "@芝士妈妈",
+            "description": "🙋‍♀️【自我介绍】<br>Hi~我是芝士妈妈，9个月小红书涨粉3.5万的知识成长博主，也是两个孩子的妈妈。<br><br>👏【专栏内容】<br>我会分享我自己是如何做小红书的，包括如何快速涨粉、如何创作笔记、如何打造个人IP以及教育博主的变现思路，都是我自己的实战经验总结。这些方法最大的优点就是对新手小白友好，实操性强。<br><br>🌟【订阅福利】<br>❶ 领取《小红书博主28天成长计划》<br>❷ 加入小红书博主交流群，添加芝妈微信【zhima2086】<br><br>💰【限时优惠】29.9元<br>专栏开通合伙人计划，邀请好友可获得50%分佣！",
+            "created_at": "2023-11-22",
+            "lastupdated": "2025-01-01",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书、成长"
+        },
+        {
+            "columnid": "sx123012300",
+            "image_url": "https://static.xiaobot.net/paper/2024-04-16/429297/e7ce914ac7c90835818e8103a755e3f4.jpeg",
+            "num": { "readers": 400, "contents": 43 },
+            "title": "易枫手把手带你做小红书",
+            "owner": "@易枫学长",
+            "description": "我是易枫，01大三，一个喜欢搞钱，会搞钱的大学生<br><br>普通人做小红书，月涨粉3000，破百万浏览量，靠着5000粉的帐号，引流2000+，撬动上万收益，实现月入2w+<br><br>这份小红书干货，我至少更新100篇，不仅可以带你实现小红书从0到1的学习，还会提供各个案例拆解，选题素材，让你玩转小红书，吃到这波红利。<br><br>主要内容如下：<br>1.定位技巧：如何通过精准定位，打造超强IP<br>2.对标技巧：学会爆款对标，创作方向不再愁<br>3.封面技巧：制作吸睛封面，引爆百万浏览量<br>4.引流技巧：教你安全引流，灌满私域流量池<br>5.素材提供：提供海量案例，做你的专属选题素材库<br><br>价格：原价199，内测10元，满500人涨价至16.88<br><br>加vx：sx123012300，送你一份我精心整理的5000字《普通大学生，如何在5个月时间实现月入3万》和3000字的《小红书保姆级教程》的秘籍一份<br><br>备注333，更有神秘礼物赠送，后期可能会送小报童专属群，记得备注加我，到时候拉你～",
+            "created_at": "2024-04-16",
+            "lastupdated": "2024-11-10",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书"
+        },
+        {
+            "columnid": "934286921",
+            "image_url": "https://static.xiaobot.net/paper/2024-08-24/18413/fabd03bcf4760e1df19eb902d0a8d92f.jpeg",
+            "num": { "readers": 44, "contents": 18 },
+            "title": "小红书读书博主起号指南",
+            "owner": "@池恩",
+            "description": "❤️适合人群<br>喜欢读书，想免费看书的人<br>沿做讨小红书，没有技能，渴望多份副业的人<br>做过小红书其他赛道，遇到问题坚持不下去的人<br>做过读书账号，数据不理想想系统学习的人<br><br>❤️专栏作者：池恩<br>小红书万粉博主<br>从0到1做起10+不同赛道账号<br>自媒体3年，从月薪2k到收入12w<br><br>❤️内容介绍<br>专栏分为账号认知、定位起号、爆款创作、涨粉变现、强化学习、福利篇六章<br>共17篇内容，目录见置顶<br>价格199元，永久有效，无需续费(全部更新完后涨至299)<br>订阅后加我微信HeeCar，进小红书交流群",
+            "created_at": "2023-02-17",
+            "lastupdated": "2024-09-01",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书、自媒体"
+        },
+        {
+            "columnid": "lukezhe",
+            "image_url": "https://static.xiaobot.net/paper/2023-10-14/14517/039ed882bfb8d0f08a300caf5f8b0818.jpeg",
+            "num": { "readers": 962, "contents": 42 },
+            "title": "小红书创作指北",
+            "owner": "@luke",
+            "description": "认认真真输出小红书创作经验，尽全力帮助小红书创作者少走弯路",
+            "created_at": "2022-04-07",
+            "lastupdated": "2024-12-25",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书"
+        },
+        {
+            "columnid": "1001001111",
+            "image_url": "https://static.xiaobot.net/paper/2023-11-30/435931/4af0ebcec5e11eca1fec2cc662a6f88b.jpeg",
+            "num": { "readers": 65, "contents": 101 },
+            "title": "小红书引流对标案例集",
+            "owner": "@布丁¹",
+            "description": "我是布丁，<br><br>这是一份 小红书引流案例集，聚焦小红书引流，收集、整理、分析小红书上的各种引流案例，希望通过这些他山之石辅助你在小红书上偷流量，实现私域流量自由 🆓<br><br>永久买断制，本系列最少更新100篇，每周更新7篇<br><br>作者介绍：私域引流小能手，小红书单日引流1000+，成本控制在0.3，累计10万私域<br><br>原价199元，现价9.9元，每增加100名用户涨10元<br><br>付款后添加：m1553801，截图支付记录，送你年度群",
+            "created_at": "2023-11-30",
+            "lastupdated": "2024-03-04",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书、引流、案例库"
+        },
+        {
+            "columnid": "fengfeng360",
+            "image_url": "https://static.xiaobot.net/paper/2024-03-12/152445/915b649ea57cc5a79fd4663adaad7167.jpeg",
+            "num": { "readers": 16, "contents": 30 },
+            "title": "小红书启航指南从入门到精通",
+            "owner": "@阳光|",
+            "description": "2024 年，小红书商业化进程加速，众多商家收获颇丰。本专栏专为想入局小红书电商掘金的新手而设，共分为四大板块：<br><br>小红书实用工具：介绍各种实用工具，帮助新手更高效地运营。<br><br>小红书爆款模板：分享打造爆款的模板和技巧，助力新手快速获得关注。<br><br>小红书经验分享：由成功案例和实战经验组成，为新手提供宝贵的指导。<br><br>小红书前沿动向：探讨最新趋势和发展，让新手紧跟时代步伐。<br><br>在这里，你将获取关于小红书的全方位知识，开始小红书掘金之旅<br><br>原价199 永久  限时特价19.9永久",
+            "created_at": "2024-03-12",
+            "lastupdated": "2024-06-11",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书"
+        },
+        {
+            "columnid": "fanyiqing",
+            "image_url": "https://static.xiaobot.net/paper/2023-06-04/85896/88bea48f81f571909baadd0d4bed6ac1.jpeg",
+            "num": { "readers": 317, "contents": 66 },
+            "title": "商业IP小红书起号指南",
+            "owner": "@范一晴",
+            "description": "🔸【适合群体】<br>① 想做一个能变现的小红书帐号的人<br>② 想要知识变现的老师<br>③ 科普知识类博主（营养/健身/减脂/母婴/养生等）<br><br>🔸【你将收获】<br>① 做个人品牌商业IP的正确思路<br>② 从0起步所需的基础知识、步骤<br>③ 拥有一个可以互相交流的小圈子<br><br>🔹范一晴的其他课程（请私聊）<br>🟤1v1咨询：个人商业闭环&amp;amp;职业规划<br>🟤实操：独立营养师个人陪跑100天<br>🟤《独立营养师商业第一课》开班中<br><br>————<br>【阅读Tips】<br>♦️保持打开目录页、直播回放页<br>♦️图片是可以点击放大的",
+            "created_at": "2023-05-29",
+            "lastupdated": "2024-05-31",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "IP、小红书"
+        },
+        {
+            "columnid": "133751",
+            "image_url": "https://static.xiaobot.net/paper/2023-12-24/15932/970bc2ea7bfbe6364443349f8d138a6a.png",
+            "num": { "readers": 7, "contents": 47 },
+            "title": "360度跟进客户100%成交方案",
+            "owner": "@杨丙顺-跟大顺买公寓躺赢",
+            "description": "你知道一个人一年卖出100多套公寓背后，<br>他是如何高效跟进客户的吗？<br><br>限时特价，欢迎订阅！<br><br>2024年，我们在一起，就会了不起！<br><br>假设成交客户是答题且满分100分，<br>那么，<br>如何通过一分五分十分的有效努力，<br>去获取这个成交100分[666]<br>有效成交客户的10个阶段，<br>每个阶段4个状态，<br>累计40个有效节点你都知道吗？<br>加入我的：360度跟进客户100%成交方案，<br>让你也开始有体系，有流程，有效的高效推进客户的成交，<br>让你每次的沟通都在为成交100%的推进而努力，<br>放弃无效努力，用有效沟通去实现您的高效成交！",
+            "created_at": "2023-12-23",
+            "lastupdated": "2024-11-07",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "超级个体"
+        },
+        {
+            "columnid": "shenzg5200",
+            "image_url": "https://static.xiaobot.net/paper/2023-08-06/282894/a401181d693b8073ccaaf49a9298fb05.jpeg",
+            "num": { "readers": 300, "contents": 43 },
+            "title": "100个小红书爆款写作模版（更新中）",
+            "owner": "@A屋屋｜读旅世界",
+            "description": "爆款是可以重复。<br>与其自己瞎琢磨，瞎写，倒不如直接“复刻”“模仿”别人爆款写作思路。<br><br>按照模版去写，犹如“站着巨人的肩膀上”。<br>这样更能提高涨粉、变现的成功概率。<br><br>本专栏交付100个小红书爆款标题和写作模版。<br>如果你准备做小红书，但不会写<br>如果你正在做小红书，但一直无法写出爆款笔记<br>可以闭眼入<br>这个专栏，大概率是可以帮到你的！",
+            "created_at": "2023-07-20",
+            "lastupdated": "2024-10-30",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小红书、写作、案例库"
+        },
+        {
+            "columnid": "zhixiaoyunying",
+            "image_url": "https://static.xiaobot.net/paper/2024-03-06/250090/28ee63412f86f1c36d5f5c4cab51bfe3.png",
+            "num": { "readers": 276, "contents": 71 },
+            "title": "私域小绿书：私域全景知识手册",
+            "owner": "@峰",
+            "description": "2025存量趋势明确，全域到私域增长是必修课<br><br>但为什么你看了很多案例，学了很多课程，依然没头绪没结果？大多原因没有深刻认知和运营体系就开干。<br><br>市面上没有一本私域运营书能从“思维认知、策略方法、运营实操”讲透，这一本知识手册，给你全面认知和实操思路！<br><br>适合人群:<br>1、私域及全域运营操盘手<br>2、运营业务负责人/老板CEO<br>3、求职/转岗运营类岗位<br><br>内容简介:<br>分为五大篇章：逻辑篇、筹备篇、实战篇、进阶篇、工具篇，全册超20万字，500多页高质量图表。<br><br>*订阅后，免费升级飞书知识库，已开试读部分，期待你的订阅！",
+            "created_at": "2024-03-06",
+            "lastupdated": "2024-11-20",
+            "type": "BOOKLET",
+            "new": 1,
+            "tags": "小绿书、私域"
+        },
     ]
         
 // tags & tags_alias 需要一对一映射
-export const tags = ['全部', '热门', '官方推荐', '搞钱', '案例库', 'AI', 'AI绘画', '自媒体', '产品', '职场', '小红书', '超级个体', 'RPA', '公众号', 'IP', '私域', '电商', '出海', '互联网', '编程', '独立开发', '沟通', '读书', '写作', '心理', '人际', '成长', '商业', '工具', 'ChatGPT', '投资', 'web3']; 
-export const tags_alias = ['all', 'hot', 'offical-recommend', 'make-money', 'cases', 'ai', 'ai-painting', 'self-media', 'pm', 'career', 'xiaohongshu', 'super-individual', 'rpa', 'mp', 'ip', 'private-domain', 'e-commerce', 'going-global', 'internet', 'programming', 'ind-dev', 'communicate', 'read', 'write', 'psychology', 'relationships', 'learn', 'business', 'tools', 'chatgpt', 'invest', 'web3']; 
+export const tags = ['全部', '热门', '官方推荐', '搞钱', '案例库', 'AI', 'AI绘画', '自媒体', '产品', '职场', '营销', '小绿书', '小红书', '超级个体', 'RPA', '公众号', 'IP', '私域', '电商', '出海', '互联网', '编程', '独立开发', '沟通', '读书', '写作', '心理', '人际', '成长', '商业', '工具', 'ChatGPT', '投资', 'web3']; 
+export const tags_alias = ['all', 'hot', 'offical-recommend', 'make-money', 'cases', 'ai', 'ai-painting', 'self-media', 'pm', 'career', 'marketing', 'xiaolvshu', 'xiaohongshu', 'super-individual', 'rpa', 'mp', 'ip', 'private-domain', 'e-commerce', 'going-global', 'internet', 'programming', 'ind-dev', 'communicate', 'read', 'write', 'psychology', 'relationships', 'learn', 'business', 'tools', 'chatgpt', 'invest', 'web3']; 
 
 export const last_update_time = '2024-07-02'; 
   
