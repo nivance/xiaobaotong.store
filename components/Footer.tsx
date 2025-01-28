@@ -48,6 +48,7 @@ const navigation = {
     { name: 'fisch script', href: 'https://fischzone.com/fisch-script' },
     { name: 'Incredibox V4', href: 'https://sprunki.today/incredibox-v4' },
     { name: 'Incredibox V5', href: 'https://sprunki.today/incredibox-v5' },
+    { name: 'block breaker', href: 'https://blockbreaker.im/' },
     { name: 'Incredibox V6', href: 'https://sprunki.today/incredibox-v6' },
     { name: 'Incredibox V7', href: 'https://sprunki.today/incredibox-v7' },
     { name: 'Incredibox V8', href: 'https://sprunki.today/incredibox-v8' },
